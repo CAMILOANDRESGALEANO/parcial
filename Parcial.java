@@ -61,7 +61,7 @@ public class Parcial {
         System.out.println("El número de letras 'u' es: " + u); 
         
         
-       int b, c, d, f, g,h,j,k,l,n,m,p,q,r,s,t = 0,w,x,y,z = 0; 
+  int b, c, d, f, g,h,j,k,l,n,m,p,q,r,s,t = 0,w,x,y,z = 0; 
         b = c = d = f = g = h=j=k=l=n=m=p=q=r=s=w=x=y=z; 
        
         int longitu = frase.length(); 
